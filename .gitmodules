@@ -1,0 +1,6 @@
+[submodule "ProjectK.API"]
+	path = ProjectK.API
+	url = https://github.com/itsdomibro/ProjectK.API.git
+[submodule "projectk-web"]
+	path = projectk-web
+	url = https://github.com/itsdomibro/projectk-web.git
