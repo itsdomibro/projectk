@@ -22,17 +22,9 @@ Project terdiri dari dua bagian: **Frontend (Next.js)** dan **Backend (API Servi
 
 ---
 
-## 📂 Project Structure
-
-- root/
-  ├─ fe/ → Frontend (Next.js)
-  └─ be/ → Backend (API)
-
----
-
 ## ✨ Features
 
-### 👤 Role System
+## 👤 Role System
 
 #### **Owner**
 
@@ -57,6 +49,27 @@ Project terdiri dari dua bagian: **Frontend (Next.js)** dan **Backend (API Servi
   - Total revenue
   - Best-selling product
   - Tren penjualan per periode
+
+---
+
+## 📊 Owner Dashboard Includes:
+
+- Total revenue (omzet)
+- Count transaction
+- Product analytics
+- Top product
+- Cashier management
+- AI-generated insights
+
+---
+
+## ☁️ Deployment
+
+- Frontend: **Vercel**
+
+- Backend: **Azure Web App**
+
+- Database: **Azure Database for PostgreSQL**
 
 ---
 
